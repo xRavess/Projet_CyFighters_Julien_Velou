@@ -1,6 +1,8 @@
 Le code fonctionne après avoir rencontré beaucoup de problèmes. Je n'ai pas mis les anciennes versions sur Git, veuillez m’en excuser : je m’y suis pris un peu au dernier moment, et tout ne s’est pas passé comme prévu.
 
-Je suis désolé de ne pas avoir séparé les fichiers en plusieurs fichiers, avec le main d’un côté et les fonctions de l’autre. Je n’y arrivais pas vraiment et j’étais un peu dépassé. C’est entièrement ma faute de m’y être pris au dernier moment.
+Je suis désolé de ne pas avoir séparé les fichiers en plusieurs fichiers, avec le main d’un côté et les fonctions de l’autre et de ne pas avoir fait de makefile. Je n’y arrivais pas vraiment et j’étais un peu dépassé. C’est entièrement ma faute de m’y être pris au dernier moment.
+
+Désolé pour la la qualité de la vidéo, les paramètres que j'avais sur obs ne devaient pas être les meilleurs.
 
 Concernant le projet, il manque encore beaucoup de personnages et de techniques.
 
