@@ -1,5 +1,7 @@
 Le code fonctionne après avoir rencontré beaucoup de problèmes. Je n'ai pas mis les anciennes versions sur Git, veuillez m’en excuser : je m’y suis pris un peu au dernier moment, et tout ne s’est pas passé comme prévu.
 
+Je suis désolé de ne pas avoir séparé les fichiers en plusieurs fichiers, avec le main d’un côté et les fonctions de l’autre. Je n’y arrivais pas vraiment et j’étais un peu dépassé. C’est entièrement ma faute de m’y être pris au dernier moment.
+
 Concernant le projet, il manque encore beaucoup de personnages et de techniques.
 
 Un point qui peut poser problème : lorsqu’une technique n’est pas disponible, il arrive qu’elle soit quand même utilisée. Ce bug est peut-être corrigé, mais après avoir dû régler des dizaines de bugs, je ne m’en souviens plus exactement. Veuillez m’en excuser encore une fois.
