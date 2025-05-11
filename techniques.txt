@@ -1,0 +1,97 @@
+Nom: Coup d'epee
+Valeur: -12
+Type: Normal
+Description: Steve attaque avec son epee en diams
+Duree: 0
+Recharge: 0
+
+Nom: Fire Charge
+Valeur: -20
+Type: Feu
+Description: Envoi une boule explosive
+Duree: 1
+Recharge: 3
+
+Nom: Golden Apple
+Valeur: 18
+Type: Soin
+Description: Steve peut manger la pomme ou la soigner un allie
+Duree: 1
+Recharge: 3
+
+Nom: Fire Blade
+Valeur: -15
+Type: Feu
+Description: Roy creer une explosion avec son epee, cette attaque inflige des degats a Roy
+Duree: 1
+Recharge: 3
+
+Nom: Double Slash
+Valeur: -22
+Type: Normal
+Description: Roy lance une attaque aerienne a l'aide de son epee
+Duree: 0
+Recharge: 1
+
+Nom: Missile
+Valeur: -8
+Type: Normal
+Description: Samus lance un missile tres rapide
+Duree: 0
+Recharge: 1
+
+Nom: Final Smash
+Valeur: -80
+Type: Normal
+Description: Samus lance son ulti 
+Duree: 0
+Recharge: 6
+
+Nom: Desinfectant
+Valeur: -11
+Type: Inflammable
+Description: Mr Propre te nettoie sauvagement
+Duree: 1
+Recharge: 2
+
+Nom: Noyade Chimique
+Valeur: -8
+Type: Inflammable
+Description: Mr Propre te met dans une bassine chimique
+Duree: 3
+Recharge: 4
+
+Nom: Zap
+Valeur: -13
+Type: Electrique
+Description: Thor lache un eclair sur toi
+Duree: 0
+Recharge: 2
+
+Nom: Mjollnir
+Valeur: -32
+Type: Normal
+Description: Thor te fracasse le crane
+Duree: 0
+Recharge: 4
+
+Nom: Cle de 12
+Valeur: -15
+Type: Metal
+Description: Coup de cle de 12
+Duree: 0
+Recharge: 1
+
+Nom: Retrait du Permis
+Valeur: -25
+Type: Normal
+Description: Le Mekanic Guy te retire le permis
+Duree: 0
+Recharge: 3
+
+Nom: Huile Moteur
+Valeur: -5
+Type: Inflammable
+Description: Mekanic Guy te balance de l'huile moteur
+Duree: 2
+Recharge: 4

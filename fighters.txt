@@ -1,0 +1,47 @@
+Nom: Steve
+PV: 170
+Attaque: 15
+Défense: 30
+Agilité: 10
+Vitesse: 20
+Techniques: Coup d'epee, Fire Charge, Golden Apple
+
+Nom: Roy
+PV: 120
+Attaque: 20 
+Défense: 18
+Agilité: 15
+Vitesse: 22
+Techniques: Fire Blade, Double Slash
+
+Nom: Dark Samus
+PV: 140
+Attaque: 18
+Défense: 20
+Agilité: 17
+Vitesse: 23
+Techniques: Missile, Final Smash
+
+Nom: Mr Propre
+PV: 150
+Attaque: 18
+Défense: 15
+Agilité: 16
+Vitesse: 21
+Techniques: Desinfectant, Noyade Chimique
+
+Nom: Thor
+PV: 120
+Attaque: 21
+Défense: 17
+Agilité: 15
+Vitesse: 23
+Techniques: Zap, Mjollnir
+
+Nom: Mekanic Guy
+PV: 130
+Attaque: 20
+Défense: 15
+Agilité: 10
+Vitesse: 20
+Techniques: Cle de 12, Retrait du Permis, Huile Moteur
